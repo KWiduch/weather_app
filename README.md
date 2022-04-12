@@ -1,2 +1,1 @@
-# weather_app
-Uni project written in react native 
+# Weather app (uni project) written in react native
